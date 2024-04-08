@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "How Taylor Swift is helping flag football keep growing before Olympic debut",
+            "description": "The Taylor Swift effect has reached far beyond the NFL arena, with Great Britain's women set to challenge when flag football - the sport's non-contact version - makes its Olympic debut.",
+            "url": "http://www.bbc.co.uk/sport/american-football/68602507",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/123A0/production/_133065647_-7eeac9c1-825b-4fd2-a3f3-74d8d348d2fc.png",
+            "publishedAt": "2024-04-03T08:07:16.1969198Z",
+            "content": "Yet Great Britain's teams have not just been having a great time, they have been winning too. Schecter played on the women's team that became European champions last August, then helped coach the Und… [+971 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Football latest and Premier League reaction",
+            "description": "Reaction to Tuesday's Premier League matches including Nottingham Forest's win over Fulham while Everton draw at Newcastle and West Ham hold Tottenham.",
+            "url": "http://www.bbc.co.uk/sport/football/live/cx0zzgnpgxvt",
+            "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/sport/images/metadata/poster-1024x576.png",
+            "publishedAt": "2024-04-03T06:07:14.289913Z",
+            "content": "Good morning.\r\nThe daffodils are blooming and the last dregs of Easter eggs have been munched which can only mean, ahem, one thing. The football season is heading into the home straight. \r\nIndeed, we… [+886 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "National Football League\n     <!----> \n        Five potential Cowboys picks to track at the NFL Draft Combine\n       \n      1 hour ago",
+            "description": null,
+            "url": "http://www.foxsports.com/stories/nfl/five-potential-cowboys-picks-to-track-at-the-nfl-draft-combine",
+            "urlToImage": null,
+            "publishedAt": "2024-02-29T18:37:22.5746516Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "David Kenyon",
+            "title": "Unique Stats from the 2023 College Football Regular Season",
+            "description": "Numbers are an integral part of college football. Whether you're previewing games, ranking teams or picking an award winner, statistics help shape the story.…",
+            "url": "https://bleacherreport.com/articles/10100739-unique-stats-from-the-2023-college-football-regular-season",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1702319871/sdx1wjlqkcqz3anqfabp.jpg",
+            "publishedAt": "2023-12-12T12:00:00Z",
+            "content": "Zach Bolinger/Icon Sportswire via Getty Images\r\nSpeaking of Iowa...\r\nWhat makes the Hawkeyes' stellar defensive season even more impressive is how much the team desperately needed it.\r\nAmong the many… [+711 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
