@@ -23,7 +23,15 @@ const NewsItem = (props) => {
         className="card-img-top"
         alt={title}
       />
-      <div className="card-body" style={{ overflow: "auto" }}>
+      <div
+        className="card-body"
+        style={{
+          overflow: "auto",
+          "&::-webkit-scrollbar": {
+            width: "0.3rem !important" ,
+          },
+        }}
+      >
         <h5 className="card-title">
           {title}{" "}
           <span

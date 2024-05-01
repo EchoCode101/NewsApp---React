@@ -64,22 +64,24 @@ const News = (props) => {
         <div className="container my-4">
           <div className="row">
             {articles.map((element) => {
-              console.log(element);
-              console.log(element.title);
-              return (
-                <div className="col-md-4" key={element.url}>
-                  <NewsItem
-                    title={element.title ? element.title : ""}
-                    description={element.description ? element.description : ""}
-                    urlToImage={element.urlToImage}
-                    url={element.url}
-                    author={element.author}
-                    publishedAt={element.publishedAt}
-                    source={element.source.name}
-                    badgeColor={props.badgeColor}
-                  />
-                </div>
-              );
+              if (element.title !== "[Removed]") {
+                return (
+                  <div className="col-md-4" key={element.url}>
+                    <NewsItem
+                      title={element.title ? element.title : ""}
+                      description={
+                        element.description ? element.description : "There is no discription for this News."
+                      }
+                      urlToImage={element.urlToImage}
+                      url={element.url}
+                      author={element.author}
+                      publishedAt={element.publishedAt}
+                      source={element.source.name}
+                      badgeColor={props.badgeColor}
+                    />
+                  </div>
+                );
+              }
             })}
           </div>
         </div>
