@@ -65,7 +65,7 @@ const News = (props) => {
           <div className="row">
             {articles.map((element) => {
               if (element.title !== "[Removed]") {
-                return (
+              return (
                   <div className="col-md-4" key={element.url}>
                     <NewsItem
                       title={element.title ? element.title : ""}
