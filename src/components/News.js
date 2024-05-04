@@ -65,12 +65,14 @@ const News = (props) => {
           <div className="row">
             {articles.map((element) => {
               if (element.title !== "[Removed]") {
-              return (
+                return (
                   <div className="col-md-4" key={element.url}>
                     <NewsItem
                       title={element.title ? element.title : ""}
                       description={
-                        element.description ? element.description : "There is no discription for this News."
+                        element.description
+                          ? element.description
+                          : "There is no discription for this News."
                       }
                       urlToImage={element.urlToImage}
                       url={element.url}
@@ -82,6 +84,7 @@ const News = (props) => {
                   </div>
                 );
               }
+              return null;
             })}
           </div>
         </div>
